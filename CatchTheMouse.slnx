@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CatchTheMouse.LIB/CatchTheMouse.LIB.csproj" />
+  <Project Path="CatchTheMouse/CatchTheMouse.csproj" />
+</Solution>
