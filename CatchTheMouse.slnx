@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="CatchTheMouse.LIB/CatchTheMouse.LIB.csproj" />
-  <Project Path="CatchTheMouse/CatchTheMouse.csproj" />
+  <Project Path="CatchTheMouse.LIB/CatchTheMouse.LIB.csproj" Id="0fbd4b4e-13a7-4c0e-8912-212ae3b2ee61" />
+  <Project Path="CatchTheMouse/CatchTheMouse.csproj" Id="5f188433-558f-410c-856f-353b922853ad" />
 </Solution>

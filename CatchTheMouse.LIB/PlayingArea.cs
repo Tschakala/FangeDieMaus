@@ -19,7 +19,7 @@ namespace CatchTheMouse.LIB
 
         internal bool IsValid(Position position)
         {
-            if (position.Row > Rows || position.Row < Rows || position.Column > Columns || position.Column < Columns)
+            if (position.Row < 0 || position.Row >= Rows || position.Column < 0 || position.Column >= Columns)
             {
                 return false;
             }

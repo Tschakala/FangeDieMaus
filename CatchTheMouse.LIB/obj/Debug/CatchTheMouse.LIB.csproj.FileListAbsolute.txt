@@ -4,3 +4,9 @@ C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.LIB\obj\Debug\CatchThe
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.csproj.CoreCompileInputs.cache
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.dll
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.pdb
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\bin\Debug\CatchTheMouse.LIB.dll
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\bin\Debug\CatchTheMouse.LIB.pdb
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.csproj.AssemblyReference.cache
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.csproj.CoreCompileInputs.cache
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.dll
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse.LIB\obj\Debug\CatchTheMouse.LIB.pdb

@@ -8,3 +8,13 @@ C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse\obj\Debug\CatchTheMous
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse\obj\Debug\CatchThe.15F547D7.Up2Date
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse\obj\Debug\CatchTheMouse.exe
 C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse\obj\Debug\CatchTheMouse.pdb
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\bin\Debug\CatchTheMouse.exe.config
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\bin\Debug\CatchTheMouse.exe
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\bin\Debug\CatchTheMouse.pdb
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\bin\Debug\CatchTheMouse.LIB.dll
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\bin\Debug\CatchTheMouse.LIB.pdb
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\obj\Debug\CatchTheMouse.csproj.AssemblyReference.cache
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\obj\Debug\CatchTheMouse.csproj.CoreCompileInputs.cache
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\obj\Debug\CatchThe.15F547D7.Up2Date
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\obj\Debug\CatchTheMouse.exe
+C:\Users\Raffael\source\repos\Tschakala\FangeDieMaus\CatchTheMouse\obj\Debug\CatchTheMouse.pdb

@@ -8,7 +8,7 @@ namespace CatchTheMouse.LIB
 {
     public abstract class Player
     {
-        private static Random _random;
+        private static Random _random = new Random();
         private int _moveCounter;
         protected PlayingArea _playingArea;
         private Position Position { get; }
@@ -33,6 +33,7 @@ namespace CatchTheMouse.LIB
         {
             Position.Row = _random.Next(_playingArea.Rows);
             Position.Column = _random.Next(_playingArea.Columns);
+
         }
 
         internal int GetNumberOfMoves()
