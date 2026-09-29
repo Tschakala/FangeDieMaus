@@ -25,12 +25,14 @@ namespace CatchTheMouse.LIB
 
         public void Move(Position position)
         {
+            IncreaseMoveCounter();
             Position.Row = position.Row;
             Position.Column = position.Column;
         }
 
         public virtual void Move()
         {
+            IncreaseMoveCounter();
             Position.Row = _random.Next(_playingArea.Rows);
             Position.Column = _random.Next(_playingArea.Columns);
 

@@ -9,13 +9,12 @@ namespace CatchTheMouse.LIB
 {
     public class Mouse : Player
     {
-        private int _counter = 0;
         private int _visibleCounter = 3;
         public override bool IsVisible 
         { 
             get
             {
-                if (_counter % _visibleCounter == 0)
+                if (GetNumberOfMoves() % _visibleCounter == 0)
                 {
                     return true;
                 }
@@ -33,7 +32,7 @@ namespace CatchTheMouse.LIB
 
         public override void Move()
         {
-            if (_counter == 0)
+            if (GetNumberOfMoves() == 0)
             {
                 base.Move();
             }
@@ -53,8 +52,6 @@ namespace CatchTheMouse.LIB
                     break;
                 }
             }
-
-            _counter++;
         }
     }
 }
