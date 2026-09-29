@@ -1,0 +1,13 @@
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\bin\Debug\CatchTheMouse.GUI.exe.config
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\bin\Debug\CatchTheMouse.GUI.exe
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\bin\Debug\CatchTheMouse.GUI.pdb
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\bin\Debug\CatchTheMouse.LIB.dll
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\bin\Debug\CatchTheMouse.LIB.pdb
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.csproj.AssemblyReference.cache
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.Form1.resources
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.Properties.Resources.resources
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.csproj.GenerateResource.cache
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchThe.57C54305.Up2Date
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.exe
+C:\Users\Raffael\source\repos\CatchTheMouse\CatchTheMouse.GUI\obj\Debug\CatchTheMouse.GUI.pdb

@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|c:\\users\\raffael\\source\\repos\\catchthemouse\\catchthemouse.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|solutionrelative:catchthemouse.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|c:\\users\\raffael\\source\\repos\\catchthemouse\\catchthemouse.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|solutionrelative:catchthemouse.gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|c:\\users\\raffael\\source\\repos\\catchthemouse\\catchthemouse.gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE69700-FF1E-40F3-BD6B-2537A652D00E}|CatchTheMouse.GUI\\CatchTheMouse.GUI.csproj|solutionrelative:catchthemouse.gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|c:\\users\\raffael\\source\\repos\\catchthemouse\\catchthemouse.lib\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|c:\\users\\raffael\\source\\repos\\catchthemouse\\catchthemouse.lib\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\mouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F188433-558F-410C-856F-353B922853AD}|CatchTheMouse\\CatchTheMouse.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F188433-558F-410C-856F-353B922853AD}|CatchTheMouse\\CatchTheMouse.csproj|solutionrelative:catchthemouse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\mousemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\mousemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\playingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\playingarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\catchthemouse.lib\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBD4B4E-13A7-4C0E-8912-212AE3B2EE61}|CatchTheMouse.LIB\\CatchTheMouse.LIB.csproj|solutionrelative:catchthemouse.lib\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,105 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Player.cs",
               "RelativeDocumentMoniker": "CatchTheMouse.LIB\\Player.cs",
               "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Player.cs",
               "RelativeToolTip": "CatchTheMouse.LIB\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA5wCQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:30:04.467Z"
+              "WhenOpened": "2026-09-22T11:30:04.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Mouse.cs",
               "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Mouse.cs",
               "RelativeDocumentMoniker": "CatchTheMouse.LIB\\Mouse.cs",
               "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Mouse.cs",
               "RelativeToolTip": "CatchTheMouse.LIB\\Mouse.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwCUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:30:32.052Z",
+              "WhenOpened": "2026-09-29T13:09:55.351Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Position.cs",
-              "RelativeDocumentMoniker": "CatchTheMouse.LIB\\Position.cs",
-              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Position.cs",
-              "RelativeToolTip": "CatchTheMouse.LIB\\Position.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:30:15.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Game.cs",
               "RelativeDocumentMoniker": "CatchTheMouse.LIB\\Game.cs",
               "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Game.cs",
               "RelativeToolTip": "CatchTheMouse.LIB\\Game.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDYAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:29:55.495Z",
+              "WhenOpened": "2026-09-29T13:05:41.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PlayingArea.cs",
-              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\PlayingArea.cs",
-              "RelativeDocumentMoniker": "CatchTheMouse.LIB\\PlayingArea.cs",
-              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\PlayingArea.cs",
-              "RelativeToolTip": "CatchTheMouse.LIB\\PlayingArea.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:27:58.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MouseMove.cs",
-              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\MouseMove.cs",
-              "RelativeDocumentMoniker": "CatchTheMouse.LIB\\MouseMove.cs",
-              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\MouseMove.cs",
-              "RelativeToolTip": "CatchTheMouse.LIB\\MouseMove.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:30:40.994Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse\\Program.cs",
-              "RelativeDocumentMoniker": "CatchTheMouse\\Program.cs",
-              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse\\Program.cs",
-              "RelativeToolTip": "CatchTheMouse\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CatchTheMouse.GUI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.Designer.cs",
+              "RelativeToolTip": "CatchTheMouse.GUI\\Form1.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:26:58.125Z"
+              "WhenOpened": "2026-09-29T12:59:54.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Cat.cs",
-              "RelativeDocumentMoniker": "CatchTheMouse.LIB\\Cat.cs",
-              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.LIB\\Cat.cs",
-              "RelativeToolTip": "CatchTheMouse.LIB\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CatchTheMouse.GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "CatchTheMouse.GUI\\Form1.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-22T11:30:24.102Z"
+              "WhenOpened": "2026-09-29T12:54:39.927Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "CatchTheMouse.GUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Raffael\\source\\repos\\CatchTheMouse\\CatchTheMouse.GUI\\Form1.cs",
+              "RelativeToolTip": "CatchTheMouse.GUI\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAASwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T12:54:13.86Z",
+              "EditorCaption": ""
             }
           ]
         }
