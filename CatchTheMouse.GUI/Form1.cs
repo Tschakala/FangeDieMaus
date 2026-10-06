@@ -19,8 +19,6 @@ namespace CatchTheMouse.GUI
         private Game _game = new Game(ROWS, COLUMNS);
         private Player _mouse => _game.Mouse;
         private Player _cat => _game.Cat;
-        private GameButton _mouseButton;
-        private GameButton _catButton;
 
         private List<string> _logs = new List<string>();
         public Form1()
@@ -42,8 +40,8 @@ namespace CatchTheMouse.GUI
                 flw1.SetFlowBreak(_buttons[x, _buttons.GetLength(1) - 1], true);
             }
 
-            _mouseButton = new GameButton(_mouse.Row, _mouse.Column);
-            _catButton = new GameButton(_cat.Row, _cat.Column);
+            _buttons[_cat.Row, _cat.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.tom;
+            _buttons[_mouse.Row, _mouse.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.jerry;
         }
 
         public void CreateButton(int row, int column)
@@ -63,19 +61,30 @@ namespace CatchTheMouse.GUI
         private void GameButton_Click(object sender, EventArgs e)
         {
             _logs.Add("Button clicked at: " + ((GameButton)sender).Row + ", " + ((GameButton)sender).Column);
-
             GameButton button = (GameButton)sender;
-            _catButton.BackgroundImage = CatchTheMouse.GUI.Properties.Resources.CTM;
-            _catButton = button;
-            _catButton.BackgroundImage = CatchTheMouse.GUI.Properties.Resources.tom;
 
-            _mouseButton.BackgroundImage = CatchTheMouse.GUI.Properties.Resources.CTM;
-            
+            _buttons[_mouse.Row, _mouse.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.CTM;
+            _buttons[_cat.Row, _cat.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.CTM;
+            if (_game.Play(new Position(button.Row, button.Column)))
+            {
+                foreach (GameButton b in _buttons)
+                {
+                    b.Enabled = false;
+                    b.BackgroundImage = CatchTheMouse.GUI.Properties.Resources.tomcatchesjerry;
+                }
+            }
+            else
+            {
+                if (_mouse.IsVisible)
+                {
+                    _buttons[_mouse.Row, _mouse.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.jerry;
+                }
+                _buttons[button.Row, button.Column].BackgroundImage = CatchTheMouse.GUI.Properties.Resources.tom;
+            }
 
-            
 
-            _game.Play(new Position(button.Row, button.Column));
-            _mouseButton = _buttons[_mouse.Row, _mouse.Column];
+
+
         }
     }
 }

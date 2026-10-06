@@ -17,5 +17,21 @@ namespace CatchTheMouse.GUI
             Row = row;
             Column = column;
         }
+
+        public void SetValues(int row, int column)
+        {
+            Row = row;
+            Column = column;
+        }
+
+        public int GetRow()
+        {
+            return Row;
+        }
+
+        public int GetColumn()
+        {
+            return Column;
+        }
     }
 }

@@ -41,13 +41,13 @@ namespace CatchTheMouse.LIB
         public bool Play(Position catPosition)
         {
             Cat.Move(catPosition);
+            Mouse.Move();
             if (GameOver)
             {
                 return true;
             }
             else
             {
-                Mouse.Move();
                 return false;
             }
         }
