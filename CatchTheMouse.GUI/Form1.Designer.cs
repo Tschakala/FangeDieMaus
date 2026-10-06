@@ -33,9 +33,9 @@
             // 
             // flw1
             // 
-            this.flw1.Location = new System.Drawing.Point(970, 980);
+            this.flw1.Location = new System.Drawing.Point(0, 0);
             this.flw1.Name = "flw1";
-            this.flw1.Size = new System.Drawing.Size(200, 100);
+            this.flw1.Size = new System.Drawing.Size(970, 980);
             this.flw1.TabIndex = 0;
             // 
             // bnt

@@ -36,20 +36,23 @@ namespace CatchTheMouse.LIB
             {
                 base.Move();
             }
-            while (true)
+            else
             {
-                MouseMove move = MouseMove.GetMove();
-
-                Position pos = new Position
+                while (true)
                 {
-                    Row = base.Row + move.DeltaRow,
-                    Column = base.Column + move.DeltaColumn
-                };
+                    MouseMove move = MouseMove.GetMove();
 
-                if (_playingArea.IsValid(pos))
-                {
-                    Move(pos);
-                    break;
+                    Position pos = new Position
+                    {
+                        Row = base.Row + move.DeltaRow,
+                        Column = base.Column + move.DeltaColumn
+                    };
+
+                    if (_playingArea.IsValid(pos))
+                    {
+                        Move(pos);
+                        break;
+                    }
                 }
             }
         }

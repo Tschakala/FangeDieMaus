@@ -40,6 +40,20 @@ namespace CatchTheMouse.LIB
 
         public bool Play(Position catPosition)
         {
+            Cat.Move(catPosition);
+            if (GameOver)
+            {
+                return true;
+            }
+            else
+            {
+                Mouse.Move();
+                return false;
+            }
+        }
+
+        public bool Play(Position catPosition ,bool Konsole = true)
+        {
             while (true)
             {
                 if (_playingArea.IsValid(catPosition))
